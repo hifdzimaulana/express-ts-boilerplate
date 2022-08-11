@@ -4,7 +4,7 @@ import express, { RequestHandler, ErrorRequestHandler } from "express";
 import path from "path";
 import logger from "morgan";
 
-import indexRouter from "./routes/index";
+import indexRouter from "@src/routes";
 
 class App {
   public app: express.Application;
