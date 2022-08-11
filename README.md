@@ -1,5 +1,5 @@
 # express-ts-boilerplate
-`@types/express` REST API Boilerplate repository.
+TypeScript-Express RESTful API Boilerplate.
 <hr>
 
 ### 1. Installation
